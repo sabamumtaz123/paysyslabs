@@ -1,0 +1,82 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+.fas{
+  font-size: 7rem;
+  padding-inline-start: 100px;
+}
+h2{
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 2rem;
+}
+p{
+  text-align: -webkit-center;
+}
+.breadcrumb{
+  margin-bottom: 4rem;
+}
+.para{
+  font-size: x-large;
+}
+.fas{
+  font-size: 5rem;
+
+}
+.init{
+  display: inline-block;
+  width: min-content;
+  padding: 1.3em;
+  margin: 1em;
+  flex-direction: column;
+  align-items: center;
+}
+.content{
+  padding-inline-start: 50px;
+}
+.cont{
+  text-align: center;
+}
+.local{
+  text-align: center;
+}
+
+.icon{
+  padding-inline-start: 2em;
+}
+#scroll{
+    display: table-cell;
+    padding: inherit;
+    padding-bottom: 3rem;
+    padding-right: 7em;
+}
+.mt-4 {
+    padding: 3rem;
+    font-size: -webkit-xxx-large;
+}
